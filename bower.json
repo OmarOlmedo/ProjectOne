@@ -1,0 +1,20 @@
+{
+  "name": "my first bootstrap project",
+  "homepage": "https://github.com/OmarOlmedo/ProjectOne",
+  "authors": [
+    "OmarOlmedo <omarolmedo96@gmail.com>"
+  ],
+  "description": "mi primer proyecto con BT",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
